@@ -4,7 +4,7 @@ $(document).ready(function () {
     $('.inner-sections').hide();
     setTimeout(function () {
         $('#welcomeMessage').show();
-    }, 1500)
+    }, 500)
 
     // Assign buttons
     $('.fa-times-circle').click(function () {
